@@ -1,0 +1,3 @@
+# userfolder
+Get html report of user folder size on multiple servers
+User Folder Report Generation Script" by Chandrakant Sinha is a PowerShell utility designed to automate the creation of user folder size reports on designated servers. The script captures server information from a provided text file and compiles a detailed HTML report with folder names and sizes. The report's visual appeal is enhanced through CSS styling, and conditional formatting draws attention to folders exceeding predefined size thresholds. This efficient script empowers IT administrators to monitor disk space utilization across servers systematically, ensuring proactive management and resource optimization.
